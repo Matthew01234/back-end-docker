@@ -1,0 +1,18 @@
+img{
+    position: fixed;
+    margin-top: -2.5%;
+    width: 100%;
+}
+p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+h2{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+}
+body{
+    margin: 0%;
+}
